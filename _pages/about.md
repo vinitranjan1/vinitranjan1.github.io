@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Vinit Ranjan Personal Website"
+title: "Vinit Ranjan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
