@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/duke-teaching
 venue: "Duke University"
-date: 2016
+date: 2016-08-01
 location: "Durham, NC"
 ---
 

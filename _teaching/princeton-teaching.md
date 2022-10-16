@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/princeton-teaching
 venue: "Princeton University"
-date: 2020
+date: 2020-08-01
 location: "Princeton, NC"
 ---
 
