@@ -13,3 +13,5 @@ I am a third year PhD candidate in [Bartolomeo Stellato's group](https://stellat
 My research focuses on *real-time optimization*. Specfically, I work on theoretical and data-driven methods to certify performance for parametric problems.
 
 I completed my undergraduate degree in Math and Computer Science from Duke University (December 2019).
+
+My email is vranjan AT princeton DOT edu.
