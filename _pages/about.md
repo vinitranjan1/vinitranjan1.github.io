@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD candidate in [Bartolomeo Stellato's group](https://stellato.io/) at Princeton's [Operations Research and Financial Engineering (ORFE)](https://orfe.princeton.edu/) department.
+I am a fifth year PhD candidate in [Bartolomeo Stellato's group](https://stellato.io/) at Princeton's [Operations Research and Financial Engineering (ORFE)](https://orfe.princeton.edu/) department.
 
 My research focuses on *real-time optimization*. Specfically, I work on theoretical and data-driven methods to certify performance for parametric problems.
 
