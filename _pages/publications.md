@@ -22,7 +22,10 @@ Publications
 
 Time to Leave the Louvre: A Computational Network Analysis.\
 **V. Ranjan**, J. Ryang, and A. Xue.\
-*The Journal of Undergraduate Mathematics and Its Applications*, 40.2-3 (2019), pp.135-160.
+*The Journal of Undergraduate Mathematics and Its Applications*, 40.2-3 (2019), pp.135-160.\
+2019 COMAP Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling (MCM/ICM), **Outstanding solution** (top 7 of 5000+ for chosen problem).\
+Earned the **Leonard Euler Award** for excellence in modeling and $10000 **COMAP scholarship**.\
+Also awarded the **Karl Menger Award** from Duke Math dept. for excellence in mathematical competitions.
 
 Block size in Geometric(p)-biased permutations.\
 I. Cristali, **V. Ranjan**, J. Steinberg, E. Beckman, R. Durrett, M. Junge, and J. Nolen.\
