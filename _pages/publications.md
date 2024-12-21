@@ -11,11 +11,13 @@ Exact Verification of First-Order Methods via Mixed-Integer Linear Programming.\
 **V. Ranjan**, S. Gualangi, A. Lodi, and B. Stellato.\
 *arXiv e-prints:2412.11330*, 2024.\
 In review in *The 26th Conference on Integer Programming and Combinatorial Optimization*.
+[Paper.](https://arxiv.org/abs/2412.11330) [Code.](https://github.com/stellatogrp/mip_fom_experiments)
 
 Verification of First-Order Methods for Parametric Quadratic Optimization.\
 **V. Ranjan**, B. Stellato.\
 *arXiv e-prints:2403.03331*, 2024.\
 In review in *Mathematical Programming*.
+[Paper.](https://arxiv.org/abs/2403.03331) [Code.](https://github.com/stellatogrp/algorithm_verification)
 
 Publications
 =====
@@ -31,11 +33,13 @@ Block size in Geometric(p)-biased permutations.\
 I. Cristali, **V. Ranjan**, J. Steinberg, E. Beckman, R. Durrett, M. Junge, and J. Nolen.\
 *Electronic Communications in Probability*, 23 (2018), paper no. 80, pp.10.\
 doi:10.1214/18-ECP182
+[Paper.](https://projecteuclid.org/journals/electronic-communications-in-probability/volume-23/issue-none/Block-size-in-Geometricp-biased-permutations/10.1214/18-ECP182.full)
 
 An Analysis of the Impact of Self-Driving Cars on Traffic Conditions.\
 **V. Ranjan**, J. Ryang, and K. Zhang.\
 *SIAM Undergraduate Research Online*, 11 (2018).\
 doi:10.1137/17S015768
+[Paper.](https://www.siam.org/media/4bejpypv/an_analysis_of_the_impact_of_self_driving_cars_on_traffic.pdf)
 
 <!-- Working Papers
 =====
