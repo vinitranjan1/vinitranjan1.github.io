@@ -8,7 +8,7 @@ author_profile: true
 Preprints
 =====
 Exact Verification of First-Order Methods via Mixed-Integer Linear Programming.\
-**V. Ranjan**, S. Gualangi, A. Lodi, and B. Stellato.\
+**V. Ranjan**, S. Gualandi, A. Lodi, and B. Stellato.\
 *arXiv e-prints:2412.11330*, 2024.\
 In review in *The 26th Conference on Integer Programming and Combinatorial Optimization*.\
 [Paper.](https://arxiv.org/abs/2412.11330) [Code.](https://github.com/stellatogrp/mip_fom_experiments)
