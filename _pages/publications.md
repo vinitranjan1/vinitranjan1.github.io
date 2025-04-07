@@ -8,16 +8,16 @@ author_profile: true
 Preprints
 =====
 Exact Verification of First-Order Methods via Mixed-Integer Linear Programming.\
-**V. Ranjan**, S. Gualandi, A. Lodi, and B. Stellato.\
+**V. Ranjan**, J. Park, S. Gualandi, A. Lodi, and B. Stellato.\
 *arXiv e-prints:2412.11330*, 2024.\
-In review in *The 26th Conference on Integer Programming and Combinatorial Optimization*.\
-[Paper.](https://arxiv.org/abs/2412.11330) [Code.](https://github.com/stellatogrp/mip_fom_experiments)
+First round review in *SIAM Journal on Optimization*.\
+[Paper.](https://arxiv.org/abs/2412.11330) [Code.](https://github.com/stellatogrp/mip_algo_verify)
 
 Verification of First-Order Methods for Parametric Quadratic Optimization.\
 **V. Ranjan**, B. Stellato.\
 *arXiv e-prints:2403.03331*, 2024.\
-In review in *Mathematical Programming*.\
-[Paper.](https://arxiv.org/abs/2403.03331) [Code.](https://github.com/stellatogrp/algorithm_verification)
+Second round review in *Mathematical Programming*.\
+[Paper.](https://arxiv.org/abs/2403.03331) [Code.](https://github.com/stellatogrp/sdp_algo_verify)
 
 Publications
 =====
