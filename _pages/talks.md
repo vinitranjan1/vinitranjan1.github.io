@@ -9,6 +9,7 @@ Talks
 =====
 
 **Performance Verification of First Order Methods for Parametric Quadratic Optimization.**\
+International Conference on Continuous Optimization, Jul 2025.
 International Symposium of Mathematical Programming, Jul 2024.\
 INFORMS Annual Meeting, Oct 2022, 2023, 2024. (Session Chair in 2024).\
 International Conference on Continuous Optimization, Jul 2022.

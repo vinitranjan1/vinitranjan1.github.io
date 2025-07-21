@@ -16,7 +16,7 @@ First round review in *SIAM Journal on Optimization*.\
 Verification of First-Order Methods for Parametric Quadratic Optimization.\
 **V. Ranjan**, B. Stellato.\
 *arXiv e-prints:2403.03331*, 2024.\
-Second round review in *Mathematical Programming*.\
+**Accepted** in *Mathematical Programming*.\
 [Paper.](https://arxiv.org/abs/2403.03331) [Code.](https://github.com/stellatogrp/sdp_algo_verify)
 
 Publications
