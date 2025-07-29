@@ -13,14 +13,13 @@ Exact Verification of First-Order Methods via Mixed-Integer Linear Programming.\
 First round review in *SIAM Journal on Optimization*.\
 [Paper.](https://arxiv.org/abs/2412.11330) [Code.](https://github.com/stellatogrp/mip_algo_verify)
 
-Verification of First-Order Methods for Parametric Quadratic Optimization.\
-**V. Ranjan**, B. Stellato.\
-*arXiv e-prints:2403.03331*, 2024.\
-**Accepted** in *Mathematical Programming*.\
-[Paper.](https://arxiv.org/abs/2403.03331) [Code.](https://github.com/stellatogrp/sdp_algo_verify)
-
 Publications
 =====
+
+Verification of First-Order Methods for Parametric Quadratic Optimization.\
+**V. Ranjan**, B. Stellato.\
+*Mathematical Programming*, 2025.\
+[Paper.](https://link.springer.com/article/10.1007/s10107-025-02261-w) [ArXiv.](https://arxiv.org/abs/2403.03331) [Code.](https://github.com/stellatogrp/sdp_algo_verify)
 
 Time to Leave the Louvre: A Computational Network Analysis.\
 **V. Ranjan**, J. Ryang, and A. Xue.\
