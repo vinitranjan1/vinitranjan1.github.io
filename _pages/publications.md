@@ -7,6 +7,12 @@ author_profile: true
 
 Preprints
 =====
+Data-driven Analysis of First-Order Methods via Distributionally Robust Optimization.\
+J. Park, **V. Ranjan**, and B.Stellato.\
+*arXiv e-prints:2511.17834*, 2025.\
+First round review in *Mathematical Programming*.\
+[Paper.](https://arxiv.org/abs/2511.17834) [Code.](https://github.com/stellatogrp/dro_pep)
+
 Exact Verification of First-Order Methods via Mixed-Integer Linear Programming.\
 **V. Ranjan**, J. Park, S. Gualandi, A. Lodi, and B. Stellato.\
 *arXiv e-prints:2412.11330*, 2024.\
