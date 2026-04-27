@@ -15,5 +15,3 @@ My research focuses on *real-time optimization*. Specfically, I work on theoreti
 I completed my undergraduate degree in Math and Computer Science from Duke University (December 2019).
 
 My email is vranjan AT princeton DOT edu.
-
-I  am on the market for industry research jobs in 2026. Please feel free to send me an email and I would be happy to discuss any opportunities.
