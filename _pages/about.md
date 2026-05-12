@@ -16,5 +16,5 @@ I completed my undergraduate degree in Math and Computer Science from Duke Unive
 
 My email is vranjan AT princeton DOT edu.
 
-Starting in Fall 2026, I will be joining [Haihao Lu's group](https://mitsloan.mit.edu/faculty/directory/haihao-lu) in MIT Sloan's [Operations Research and Statistics](https://mitsloan.mit.edu/faculty/academic-groups/operations-research-statistics/about-us) group.
+Starting in Fall 2026, I will be joining [Haihao Lu's group](https://mitsloan.mit.edu/faculty/directory/haihao-lu) in MIT Sloan's [Operations Research and Statistics](https://mitsloan.mit.edu/faculty/academic-groups/operations-research-statistics/about-us) group as a postdoctoral researcher.
 I will be working on *Scalable GPU-Accelerated Optimization Methods*.
