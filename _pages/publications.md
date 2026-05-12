@@ -7,6 +7,11 @@ author_profile: true
 
 Preprints
 =====
+Distributionally-Robust Learning to Optimize.\
+**V. Ranjan**, J. Park, and B. Stellato.\
+*arXiv e-prints:2605.06585*, 2026.\
+[Paper.](https://arxiv.org/abs/2605.06585) [Code.](https://github.com/stellatogrp/dro_pep)
+
 Data-driven Analysis of First-Order Methods via Distributionally Robust Optimization.\
 J. Park, **V. Ranjan**, and B.Stellato.\
 *arXiv e-prints:2511.17834*, 2025.\
