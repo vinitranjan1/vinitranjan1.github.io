@@ -18,14 +18,13 @@ J. Park, **V. Ranjan**, and B.Stellato.\
 First round review in *Mathematical Programming*.\
 [Paper.](https://arxiv.org/abs/2511.17834) [Code.](https://github.com/stellatogrp/dro_pep)
 
-Exact Verification of First-Order Methods via Mixed-Integer Linear Programming.\
-**V. Ranjan**, J. Park, S. Gualandi, A. Lodi, and B. Stellato.\
-*arXiv e-prints:2412.11330*, 2024.\
-First round review in *SIAM Journal on Optimization*.\
-[Paper.](https://arxiv.org/abs/2412.11330) [Code.](https://github.com/stellatogrp/mip_algo_verify)
-
 Publications
 =====
+
+Exact Verification of First-Order Methods via Mixed-Integer Linear Programming.\
+**V. Ranjan**, J. Park, S. Gualandi, A. Lodi, and B. Stellato.\
+**Accepted** in *SIAM Journal on Optimization*, 2026.\
+[Paper.](https://arxiv.org/abs/2412.11330) [ArXiv.](https://arxiv.org/abs/2412.1133) [Code.](https://github.com/stellatogrp/mip_algo_verify)
 
 Verification of First-Order Methods for Parametric Quadratic Optimization.\
 **V. Ranjan**, B. Stellato.\
