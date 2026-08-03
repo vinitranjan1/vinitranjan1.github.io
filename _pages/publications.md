@@ -15,7 +15,6 @@ Distributionally-Robust Learning to Optimize.\
 Data-driven Analysis of First-Order Methods via Distributionally Robust Optimization.\
 J. Park, **V. Ranjan**, and B.Stellato.\
 *arXiv e-prints:2511.17834*, 2025.\
-First round review in *Mathematical Programming*.\
 [Paper.](https://arxiv.org/abs/2511.17834) [Code.](https://github.com/stellatogrp/dro_pep)
 
 Publications
